@@ -1,0 +1,33 @@
+/*start list view student*/
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    float: right;
+}
+/*end list view student*/
+
+/* start add studetn */
+ .emptyselect{
+    font-size: 11px !important;
+    color: lightslategray !important;
+}
+
+
+/*end add student form*/
+
+/*start custom login form laravle*/
+/*.mysite {*/
+    /*background-color: white;*/
+    /*border-color: white !important;*/
+    /*border: none !important;*/
+/*}*/
+/*.navbar-default {*/
+    /*background-color: #ffffff !important;*/
+    /*border-color: #e7e7e7;*/
+/*}*/
+/*link login and out*/
+.navbar-default .navbar-nav>li>a {
+    color: blue !important;
+}
+/*end custom login form laravle*/
